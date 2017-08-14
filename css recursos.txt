@@ -1,0 +1,9 @@
+Generador de sombras css
+www.cssmatic.com/es/box-shadow
+
+Gradientes para css
+uigradients.com
+www.cssmatic.com/es/gradient-generator
+
+Tomar colores principales de imagenes css
+www.canva.com/color-palette/
